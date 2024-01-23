@@ -1418,3 +1418,538 @@ Just enough research 2da edicion (Erika Hall)
 
 
 ==========
+Hooked_How_to_Build_Habit-Forming_Products_Nir_Eyal (Nir Eyal)
+- Highlight Loc. 39-40  | Added on Tuesday, 19 September 23 23:23:14 GMT+01:00
+
+How do companies, producing little more than bits of code displayed on a screen, seemingly control users’ minds? What makes some products so habit-forming? 
+==========
+Hooked_How_to_Build_Habit-Forming_Products_Nir_Eyal (Nir Eyal)
+- Highlight Loc. 130-32  | Added on Sunday, 24 September 23 12:07:32 GMT+01:00
+
+As famed Silicon Valley investor Paul Graham writes, "…unless the forms of technological progress that produced these things are subject to different laws than technological progress in general, the world will get more addictive in the next 40 years than it did in the last 40." [xiii] 
+==========
+Hooked_How_to_Build_Habit-Forming_Products_Nir_Eyal (Nir Eyal)
+- Highlight Loc. 254-59  | Added on Sunday, 24 September 23 18:23:25 GMT+01:00
+
+As tech-entrepreneur turned venture capitalist, David Skok points out, “The most important factor to increasing growth is ... Viral Cycle Time.” [xxv] Viral Cycle Time is the amount of time it takes a user to invite another user, and it can have a massive impact. “For example, after 20 days with a cycle time of two days, you will have 20,470 users,” Skok writes. “But if you halved that cycle time to one day, you would have over 20 million users! It is logical that it would be better to have more cycles occur, but it is less obvious just how much better.” 
+==========
+Hooked_How_to_Build_Habit-Forming_Products_Nir_Eyal (Nir Eyal)
+- Highlight Loc. 268-69  | Added on Sunday, 1 October 23 02:21:40 GMT+01:00
+
+A classic paper by John Gourville, a professor of marketing at Harvard Business School, stipulates that, “Many innovations fail because consumers irrationally overvalue the old while companies irrationally overvalue the new.” 
+==========
+Hooked_How_to_Build_Habit-Forming_Products_Nir_Eyal (Nir Eyal)
+- Highlight Loc. 270-73  | Added on Sunday, 1 October 23 02:22:54 GMT+01:00
+
+Gourville claims that for new entrants to stand a chance, they can’t just be better, they must be nine times better. Why such a high bar? Because old habits die hard and new products or services need to offer dramatic improvements to shake users out of old routines. Gourville writes that products that require a high degree of behavior change are doomed to fail even if the benefits of using the new product are clear and substantial. 
+==========
+Hooked_How_to_Build_Habit-Forming_Products_Nir_Eyal (Nir Eyal)
+- Highlight Loc. 284-90  | Added on Sunday, 1 October 23 02:29:04 GMT+01:00
+
+users also increase their dependency on habit-forming products by storing value in them — further reducing the likelihood of switching to an alternative. For example, every email sent and received using Google’s Gmail is stored indefinitely, providing users with a lasting repository of past conversations. New followers on Twitter increase users’ clout and amplify their ability to transmit messages to their communities. Memories and experiences captured on Instagram are added to one’s digital scrapbook. Switching to a new email service, social network, or photo-sharing app becomes more difficult the more people use them. The non-transferrable value created and stored inside these services discourages users from leaving. Ultimately, user habits increase a business's return on investment. 
+==========
+Hooked_How_to_Build_Habit-Forming_Products_Nir_Eyal (Nir Eyal)
+- Highlight Loc. 330-32  | Added on Sunday, 1 October 23 15:34:06 GMT+01:00
+
+Sometimes a behavior does not occur as frequently as flossing or Googling, but it still becomes a habit. For an infrequent action to become a habit, the user must perceive a high degree of utility, either from gaining pleasure or avoiding pain. 
+==========
+Hooked_How_to_Build_Habit-Forming_Products_Nir_Eyal (Nir Eyal)
+- Highlight Loc. 393-94  | Added on Monday, 2 October 23 22:52:48 GMT+01:00
+
+A habit is when not doing an action causes a bit of pain. 
+==========
+Hooked_How_to_Build_Habit-Forming_Products_Nir_Eyal (Nir Eyal)
+- Highlight Loc. 419-20  | Added on Monday, 2 October 23 23:04:43 GMT+01:00
+
+- Habits can not form outside the “Habit Zone,” where the behavior occurs with enough frequency and perceived utility. 
+==========
+Hooked_How_to_Build_Habit-Forming_Products_Nir_Eyal (Nir Eyal)
+- Highlight Loc. 421  | Added on Monday, 2 October 23 23:05:01 GMT+01:00
+
+- Habit-forming products often start as nice-to-haves (vitamins) but once the habit is formed, they become must-haves (painkillers). 
+==========
+Hooked_How_to_Build_Habit-Forming_Products_Nir_Eyal (Nir Eyal)
+- Highlight Loc. 425-30  | Added on Monday, 2 October 23 23:09:22 GMT+01:00
+
+Do This Now If you are building a habit-forming product, write down the answers to these questions: - What habits does your business model require? - What problem are users turning to your product to solve? - How do users currently solve that problem and why does it need a solution? - How frequently do you expect users to engage with your product? - What user behavior do you want to make into a habit? 
+==========
+Hooked_How_to_Build_Habit-Forming_Products_Nir_Eyal (Nir Eyal)
+- Highlight Loc. 456-62  | Added on Saturday, 7 October 23 21:08:07 GMT+01:00
+
+Triggers come in two types: external and internal. External Triggers Habit-forming technologies start changing behavior by first cueing users with a call-to-action. This sensory stimuli is delivered through any number of things in our environment. External triggers are embedded with information, which tells the user what to do next. An external trigger communicates the next action the user should take. Often, the desired action is made explicitly clear. For example, what external triggers do you see in this Coca-Cola vending machine in figure 2? Figure 2 Take 
+==========
+Hooked_How_to_Build_Habit-Forming_Products_Nir_Eyal (Nir Eyal)
+- Highlight Loc. 502-6  | Added on Saturday, 7 October 23 21:23:00 GMT+01:00
+
+Owned triggers consume a piece of real-estate in the user’s environment. They consistently show up in daily life and it is ultimately up to the user to opt into allowing these triggers to appear. For example, an app icon on the user’s phone screen, an email newsletter to which the user subscribes, or an app update notification only appear if the user wants it there. As long as the user agrees to receive a trigger, the company that sets the trigger owns a share of the user’s attention. 
+==========
+Hooked_How_to_Build_Habit-Forming_Products_Nir_Eyal (Nir Eyal)
+- Highlight Loc. 526-30  | Added on Saturday, 7 October 23 21:29:38 GMT+01:00
+
+As product designers, it is our goal to solve these problems and eliminate pain — to scratch the user’s itch. Users who find a product that alleviates their pain will form strong, positive associations with the product over time. After continued use, bonds begin to form — like the layers of nacre in an oyster — between the product and the user whose need it satisfies. Gradually, these bonds cement into a habit as users turn to your product when experiencing certain internal triggers. 
+==========
+Hooked_How_to_Build_Habit-Forming_Products_Nir_Eyal (Nir Eyal)
+- Highlight Loc. 551-53  | Added on Saturday, 7 October 23 21:38:54 GMT+01:00
+
+But the association between an internal trigger and your product is not formed overnight. It can take weeks or months of frequent usage for internal triggers to latch onto cues. New habits are sparked by external triggers, but associations with internal triggers are what keeps users hooked. 
+==========
+Hooked_How_to_Build_Habit-Forming_Products_Nir_Eyal (Nir Eyal)
+- Highlight Loc. 558-61  | Added on Friday, 13 October 23 09:39:16 GMT+01:00
+
+finding customers’ internal triggers requires learning more about people than what they can tell you in a survey. It requires digging deeper to understand how your users feel. The ultimate goal of a habit-forming product is to solve the user’s pain by creating an association so that the user identifies the company’s product or service as the source of relief. 
+==========
+Hooked_How_to_Build_Habit-Forming_Products_Nir_Eyal (Nir Eyal)
+- Highlight Loc. 561-64  | Added on Friday, 13 October 23 09:42:12 GMT+01:00
+
+First, the company must identify the particular frustration or pain-point in emotional terms, rather than product features. But how does a designer go about uncovering the source of a user’s pain? The best place to start is to learn the drivers behind successful habit-forming products — not to copy them, but to understand how they solve users’ problems. Doing so will give you practice in diving deeper into the mind of the consumer and alert you to common human needs and desires. 
+==========
+Hooked_How_to_Build_Habit-Forming_Products_Nir_Eyal (Nir Eyal)
+- Highlight Loc. 565-68  | Added on Friday, 13 October 23 09:49:16 GMT+01:00
+
+As Evan Williams, co-founder of Blogger and Twitter said, the Internet is, “a giant machine designed to give people what they want.” [xlviii] Williams continued, “We often think the Internet enables you to do new things … But people just want to do the same things they’ve always done.” 
+==========
+Hooked_How_to_Build_Habit-Forming_Products_Nir_Eyal (Nir Eyal)
+- Highlight Loc. 576-80  | Added on Friday, 13 October 23 09:59:02 GMT+01:00
+
+What would your user want to achieve by using your solution? Where and when will they use it? What emotions influence their use and will trigger them to action? Jack Dorsey, co-founder of Twitter and Square, shared how his companies answer these important questions, “[If] you want to build a product that is relevant to folks, you need to put yourself in their shoes and you need to write a story from their side. So, we spend a lot of time writing what's called user narratives.” 
+==========
+Hooked_How_to_Build_Habit-Forming_Products_Nir_Eyal (Nir Eyal)
+- Highlight Loc. 594-608  | Added on Friday, 13 October 23 10:16:56 GMT+01:00
+
+When it comes to figuring out why people use habit-forming products, internal triggers are the root cause, and “why?” is a question that can help drill right to the core. For example, let's say we're building a fancy new technology called email for the first time. The target user is a busy middle manager named Julie. We've built a detailed narrative of our user, Julie, that helps us answer the following series of "whys:" Why #1: Why would Julie want to use email? Answer: So she can send and receive messages. Why #2: Why would she want to do that? Answer: Because she wants to share and receive information quickly. Why #3: Why does she want to do that? Answer: To know what’s going on in the lives of her co-workers, friends, and family. Why #4: Why does she need to know that? Answer: To know if someone needs her. Why #5: Why would she care about that? Answer: She fears being out of the loop. Now we've got something! Fear is a powerful internal trigger and we can design our solution to help calm Julie’s fear. Of course, we might have come to another conclusion by starting with a different persona, varying the narrative or coming up with different hypothetical answers along the chain of "whys.” Only an accurate understanding of our user's underlying needs can inform the product requirements. But now that we have an understanding of the user’s pain, we can move on to the next step of testing our product to see if it solves her problem. 
+==========
+Hooked_How_to_Build_Habit-Forming_Products_Nir_Eyal (Nir Eyal)
+- Highlight Loc. 416-30  | Added on Friday, 13 October 23 10:50:54 GMT+01:00
+
+Remember and Share - For some businesses, forming habits is a critical component to success, but not every business requires habitual user engagement. - When successful, forming strong user habits can have several business benefits including: higher customer lifetime value, greater pricing flexibility, supercharged growth, and a sharper competitive edge. - Habits can not form outside the “Habit Zone,” where the behavior occurs with enough frequency and perceived utility. - Habit-forming products often start as nice-to-haves (vitamins) but once the habit is formed, they become must-haves (painkillers). - Habit-forming products alleviate users’ pain by relieving a pronounced itch. - Designing habit-forming products is a form of manipulation. Product builders would benefit from a bit of introspection before attempting to hook users to make sure they are building healthy habits, not unhealthy addictions (more to come on this topic in chapter eight). *** Do This Now If you are building a habit-forming product, write down the answers to these questions: - What habits does your business model require? - What problem are users turning to your product to solve? - How do users currently solve that problem and why does it need a solution? - How frequently do you expect users to engage with your product? - What user behavior do you want to make into a habit? 
+==========
+Hooked_How_to_Build_Habit-Forming_Products_Nir_Eyal (Nir Eyal)
+- Highlight Loc. 629-50  | Added on Friday, 13 October 23 10:51:24 GMT+01:00
+
+Remember and Share - Triggers cue the user to take action and are the first step in the Hook Model. - Triggers come in two types — external and internal. - External triggers tell the user what to do next by placing information within the user’s environment. - Internal triggers tell the user what to do next through associations stored in the user’s memory. - Negative emotions frequently serve as internal triggers. - To build a habit-forming product, makers need to understand which user emotions may be tied to internal triggers and know how to leverage external triggers to drive the user to action. *** Do This Now Refer to the answers you came up with in the last “Do This Now” section to complete the following exercises: - Who is your product’s user? - What is the user doing right before your intended habit? - Come up with three internal triggers that could cue your user to action. Refer to the “5 Whys Method” described in this chapter. - Which internal trigger does your user experience most frequently? - Finish this brief narrative using the most frequent internal trigger and the habit you are designing: “Every time the user (internal trigger), he/she (first action of intended habit).” - Refer back to the question about what the user is doing right before the first action of the habit. What might be places and times to send an external trigger? - How can you couple an external trigger as closely as possible to when the user’s internal trigger fires? - Think of at least three conventional ways to trigger your user with current technology (emails, notifications, text messages, etc.). Then stretch yourself to come up with at least three crazy, or currently impossible, ideas for ways to trigger your user (wearable computers, biometric sensors, carrier pigeons, etc.). You may find that your crazy ideas spur some new approaches, which may not be so crazy after all. In a few years, new technologies will create all sorts of currently unimaginable triggering opportunities. 
+==========
+El otro nombre I Septologia I - Jon Fosse (Jon Fosse)
+- Highlight Loc. 310-11  | Added on Saturday, 14 October 23 16:57:39 GMT+01:00
+
+siento como si la tristeza estuviera a punto de ahogarme, como si inspirara tristeza y fuera incapaz de espirarla 
+==========
+El otro nombre I Septologia I - Jon Fosse (Jon Fosse)
+- Highlight Loc. 432-34  | Added on Saturday, 14 October 23 17:20:08 GMT+01:00
+
+A todos los niños les gusta estar en el aire, dice Y a todos los niños adultos, dice él Sí, quizá, dice ella Al menos a nosotros, dice él Al menos ahora, dice 
+==========
+El otro nombre I Septologia I - Jon Fosse (Jon Fosse)
+- Highlight Loc. 500-502  | Added on Sunday, 15 October 23 08:40:54 GMT+01:00
+
+he hecho bien en bajarme del coche y tomar un poco de aire fresco, pienso, y noto lo bien que me está sentando el aire frío, es como si me reanimara y claro que puedo andar libremente por un sendero normal y corriente, como cualquiera, pienso, claro que sí, pero tiendo a pensar que no soy libre de hacer nada, supongo, y por eso hago lo mismo una y otra vez, pienso, 
+==========
+Hooked_How_to_Build_Habit-Forming_Products_Nir_Eyal (Nir Eyal)
+- Highlight Loc. 706-7  | Added on Saturday, 21 October 23 19:35:07 GMT+01:00
+
+However, even with the right trigger enabled and motivation running high, product designers often find users still don’t behave the way they want them to. What’s missing in this equation? Usability, or rather, the ability of the user to take action easily. 
+==========
+Hooked_How_to_Build_Habit-Forming_Products_Nir_Eyal (Nir Eyal)
+- Highlight Loc. 708-11  | Added on Saturday, 21 October 23 19:35:29 GMT+01:00
+
+In his book, Something Really New: Three Simple Steps to Creating Truly Innovative Products [lviii] , author Denis J. Hauptly deconstructs the process of innovation into its most fundamental steps. 
+==========
+Hooked_How_to_Build_Habit-Forming_Products_Nir_Eyal (Nir Eyal)
+- Highlight Loc. 731-34  | Added on Saturday, 21 October 23 19:42:34 GMT+01:00
+
+Evan Williams, who co-founded Blogger and later Twitter, echoes Hauptly’s formula for innovation when he describes his own approach to building two massively successful companies. [lix] “Take a human desire, preferably one that has been around for a really long time… Identify that desire and use modern technology to take out steps.” 
+==========
+Hooked_How_to_Build_Habit-Forming_Products_Nir_Eyal (Nir Eyal)
+- Highlight Loc. 749-55  | Added on Saturday, 21 October 23 19:47:44 GMT+01:00
+
+Fogg describes six “elements of simplicity” — the factors that influence a task’s difficulty. [lxi] These are: - Time - How long it takes to complete an action. - Money - The fiscal cost of taking an action. - Physical Effort - The amount of labor involved in taking the action. - Brain Cycles - The level of mental effort and focus required to take an action. - Social Deviance - How accepted the behavior is by others. - Non-Routine - According to Fogg, “How much the action matches or disrupts existing routines.” 
+==========
+Hooked_How_to_Build_Habit-Forming_Products_Nir_Eyal (Nir Eyal)
+- Highlight Loc. 810-18  | Added on Saturday, 21 October 23 20:51:59 GMT+01:00
+
+After uncovering the triggers that prompt user actions and deciding which actions you want to turn into habits, you can increase motivation and ability to spark the likelihood of your users taking a desired behavior. But which should you invest in first, motivation or ability? Where is your time and money better spent? The answer is always to start with ability. Of course, all three parts of B=MAT must be present for a singular user action to occur; without a clear trigger and sufficient motivation, there will be no behavior. But for companies building technology solutions, the greatest return on investment will generally come from increasing a product’s ease-of-use. The fact is, increasing motivation is expensive and time-consuming. Website visitors tend to ignore instructional text. Their attention is split on several tasks at once and they have little patience for explanations about why or how they should do something. Instead, influencing behavior by reducing the effort required to perform an action is more effective than increasing someone’s desire to do it. Make your product so simple that users already know how to use it, and you’ve got a winner. 
+==========
+Hooked_How_to_Build_Habit-Forming_Products_Nir_Eyal (Nir Eyal)
+- Highlight Loc. 924-49  | Added on Saturday, 21 October 23 22:11:56 GMT+01:00
+
+Remember and Share - Action is the second step in The Hook. - The action is the simplest behavior in anticipation of reward. - As described by the Dr. BJ Fogg’s Behavior Model: - For any behavior to occur, a trigger must be present at the same time as the user has sufficient ability and motivation to take action. - To increase the desired behavior, ensure a clear trigger is present, then increase ability by making the action easier to do, and finally align with the right motivator. - Every behavior is driven by one of three Core Motivators: seeking pleasure or avoiding pain, seeking hope and avoiding fear, seeking social acceptance while avoiding social rejection. - Ability is influenced by the six factors of time, money, physical effort, brain cycles, social deviance, and non-routineness. Ability is dependent on users and their context at that moment. - Heuristics are cognitive shortcuts we take to make quick decisions. Product designers can utilize many of the hundreds of heuristics to increase the likelihood of their desired action. *** Do This Now Refer to the answers you came up with in the last “Do This Now” section to complete the following exercises: - Walk through the path your users would take to use your product or service, beginning from the time they feel their internal trigger - Social deviance (outside the norm) - Non-routine (too new) - Brainstorm three testable ways to make the intended tasks easier to complete. - Consider how you might apply heuristics to make habit-forming actions more likely. 
+==========
+Hooked_How_to_Build_Habit-Forming_Products_Nir_Eyal (Nir Eyal)
+- Highlight Loc. 1204-5  | Added on Sunday, 5 November 23 18:06:23 GMT+01:00
+
+The magic words the researchers discovered? The phrase, “but you are free to accept or refuse.” The “but you are free” technique demonstrates how we are more likely to be persuaded when our ability to choose is reaffirmed. 
+==========
+Hooked_How_to_Build_Habit-Forming_Products_Nir_Eyal (Nir Eyal)
+- Highlight Loc. 1329-46  | Added on Sunday, 5 November 23 19:22:46 GMT+01:00
+
+Remember and Share - Variable Reward is the third phase of the Hook Model, and there are three types of variable rewards: tribe, hunt and self. - Rewards of the tribe is the search for social rewards fueled by connectedness with other people. - Rewards of the hunt is the search for material resources and information. - Rewards of the self is the search for intrinsic rewards of mastery, competence, and completion. - When our autonomy is threatened, we feel constrained by our lack of choices and often rebel against doing a new behavior. Psychologists call this “reactance.” Maintaining a sense of user autonomy is a requirement for repeat engagement. - Experiences with finite variability become increasingly predictable with use and lose their appeal over time. Experiences that maintain user interest by sustaining variability with use exhibit infinite variability. - Variable rewards must satisfy users’ needs, while leaving them wanting to re-engage with the product. *** Do This Now Refer to the answers you came up with in the last “Do This Now” section to complete the following exercises: - Speak with five of your customers in an open-ended interview to identify what they find enjoyable or encouraging about using your product. Are there any moments of delight or surprise? Is there anything they find particularly satisfying about using the product? - Review the steps your customer takes to use your product or service habitually. What outcome (reward) alleviates the user’s pain? Is the reward fulfilling, yet leaves the user wanting more? - Brainstorm three ways your product might heighten users’ search for variable rewards using: - Rewards of the Tribe - gratification from others - Rewards of the Hunt - things, money or information - Rewards of the Self - mastery, completion, competency or consistency 
+==========
+Hooked_How_to_Build_Habit-Forming_Products_Nir_Eyal (Nir Eyal)
+- Highlight Loc. 1592-1600  | Added on Sunday, 12 November 23 20:46:19 GMT+01:00
+
+Remember and Share - The Investment Phase is the fourth step in the Hook Model. - Unlike the Action Phase, which delivers immediate gratification, the Investment Phase is about the anticipation of rewards in the future. - Investments in a product create preference because of our tendency to overvalue our work, be consistent with past behaviors, and avoid cognitive dissonance. - Investment comes after the variable reward phase when users are primed to reciprocate. - Investments increase the likelihood of users returning by improving the service the more it is used. They enable the accrual of stored value in the form of content, data, followers, reputation or skill. - Investments increase the likelihood of users passing through the Hook again by loading the next trigger to start the cycle all over again. 
+==========
+Hooked_How_to_Build_Habit-Forming_Products_Nir_Eyal (Nir Eyal)
+- Highlight Loc. 1721-27  | Added on Friday, 17 November 23 21:59:45 GMT+01:00
+
+possibly the most common example of peddlers is in advertising. Countless companies convince themselves they’re making ad campaigns users will love. They expect their videos to go viral and their branded apps to be used daily. Their so-called “reality distortion fields” keep them from asking the critical question, “Would I actually find this useful?” [cxxii] The answer to this uncomfortable question is nearly always “No,” so they twist their thinking until they can imagine a user they believe might find the ad valuable. Materially improving users’ lives is a tall order, and attempting to create a persuasive technology that you do not use yourself is incredibly difficult. 
+==========
+El palomo cojo - Eduardo Mendicutti (Eduardo Mendicutti)
+- Highlight Loc. 1820-21  | Added on Friday, 15 December 23 23:09:18 GMT+01:00
+
+éramos más torpes que la Candelaria —que encendió una vela y se quemó el chumino;
+==========
+El palomo cojo - Eduardo Mendicutti (Eduardo Mendicutti)
+- Highlight Loc. 2559-76  | Added on Monday, 25 December 23 14:29:45 GMT+01:00
+
+Allí estábamos los cuatro, tío Ramón y la Mary, tía Victoria y yo, los bichos raros de la familia, y seguro que tío Ricardo estaba espiando detrás de las puertas, mientras sus palomas empezaban ya, tan temprano, a dar la murga. Tía Blanca diría, con mucho arremangamiento de boca, Dios los cría y ellos se juntan; pero mucho mejor era estar allí, con tío Ramón y tía Victoria y la Mary, y con tío Ricardo detrás de la puerta, poniendo la oreja para ver si se enteraba de algo antes de empezar a hacer flexiones en calzoncillos en el recibidor, que con tía Blanca y su marido metiéndose el uno con el otro en su casa de Madre de Dios, o con mi madre jugando a la canasta con las presumidas de las Caballero, o con mi abuela aguantando a las visitas todas las tardes en el gabinete, o con tío Esteban teniendo que tragarse cada dos por tres el que tía Loreto, con todo su caché, le dijese delante de todo el mundo eres una inutilidad. Era mucho mejor, más divertido y más emocionante, estar con los bichos raros. Así que no tenía que darme vergüenza cuando se me ocurría que de mayor iba a ser un bicho raro, y por eso tampoco tenía que darme lástima el palomo cojo, que a saber dónde estaría, seguro que haciendo su vida por ahí, la mar de orgulloso por llamarse Visconti, contentísimo de tener un nombre a la moda italiana. De mayor, yo quería ser como tío Ramón y tía Victoria, aunque acabase como tío Ricardo, desayunando a las siete de la tarde y empeñado en hacer que las palomas aprendiesen gimnasia como las niñas de doña Pilar Primo de Rivera, qué más daba. Yo quería bailar el vals en el castillo del Aga Khan, vestido como el príncipe Michovsky, o decirle impertinencias al marqués de Villaverde, para que no se pensara que sólo él era de buena familia y podía tratar a los demás como si fueran estropajos. Yo quería estar toda mi vida allí, en casa de mis abuelos, leyendo Mujercitas y organizando de vez en cuando, a escondidas, una función de poesía en el salón de los espejos, y llegar a ser con el tiempo el secretario de tía Victoria, despachando con ella tan bien como lo hacía Luiyi, y escuchando con la Mary todas las tardes, mientras ella planchaba, los seriales de la radio, y dejando que me hiciera cosquillas en cuanto tío Ramón se fuera de nuevo a alternar con la alta sociedad y me prestara otra vez su dormitorio. Yo no quería, por nada del mundo, que me sacaran de aquella 
+==========
+Patria digna (Spanish Edition) (Alán Barroso)
+- Subrayado en la página 3 | Pos. 15-19  | Añadido el lunes 25 de diciembre de 2023 21H32' GMT+01:00
+
+Apuesto a que leyendo estas líneas muchos recordarán, con gran desagrado, como llenan de rabia ese «Ejjpaña» para soltarlo como un bofetón. Lamentablemente, utilizar el nombre de nuestro país como si fuese un castigo ha sido algo muy frecuente durante los últimos años. Algo bastante común desde que nos robaron la posibilidad de sentirnos españoles orgullosos y se arrogaron la capacidad única de hablar en nombre de una patria que no habían construido, sino que simplemente habían robado a punta de pistola y con ánimo expoliador. 
+==========
+Patria digna (Spanish Edition) (Alán Barroso)
+- Subrayado en la página 3 | Pos. 15-19  | Añadido el lunes 25 de diciembre de 2023 21H33' GMT+01:00
+
+Apuesto a que leyendo estas líneas muchos recordarán, con gran desagrado, como llenan de rabia ese «Ejjpaña» para soltarlo como un bofetón. Lamentablemente, utilizar el nombre de nuestro país como si fuese un castigo ha sido algo muy frecuente durante los últimos años. Algo bastante común desde que nos robaron la posibilidad de sentirnos españoles orgullosos y se arrogaron la capacidad única de hablar en nombre de una patria que no habían construido, sino que simplemente habían robado a punta de pistola y con ánimo expoliador. Así nos convirtieron a millones de españoles en extranjeros en nuestro propio país. 
+==========
+Patria digna (Spanish Edition) (Alán Barroso)
+- Subrayado en la página 4 | Pos. 29-35  | Añadido el lunes 25 de diciembre de 2023 21H36' GMT+01:00
+
+El patriotismo de verdad consiste en querer a tu país de hoy en día y no al de hace décadas. Consiste en defender un país diverso, moderno y que mira al futuro, no a uno que solamente existe odiando al contrario y gritando muy fuerte «¡Viva España!» para no olvidarse de lo que es. Porque si tanto lo gritan es porque su idea de patria es tan endeble que necesitan recordarla constantemente dando voces cada dos por tres para que no se desvanezca en el aire. Nos acostumbraron a llamar patriotismo a algo que simplemente es odio. Pero el patriotismo es el amor por tu tierra y por tu gente. No puedes amar a tu tierra si dejas que la expolien, si no te importa lo más mínimo la crisis climática y si antepones tu dinero al cuidado de la naturaleza. 
+==========
+Patria digna (Spanish Edition) (Alán Barroso)
+- Subrayado en la página 5 | Pos. 35-36  | Añadido el lunes 25 de diciembre de 2023 21H37' GMT+01:00
+
+No se puede ser un patriota español si odias a más de la mitad de España. 
+==========
+Patria digna (Spanish Edition) (Alán Barroso)
+- Subrayado en la página 5 | Pos. 40-44  | Añadido el lunes 25 de diciembre de 2023 21H39' GMT+01:00
+
+su gran problema es que siempre ha habido más españoles que no entran en su modelo de España que los que sí. Por eso es urgente que dejemos de darles el placer de poder llamarse patriotas a sí mismos, porque un patriota de verdad es el que lleva a su país entero en el corazón junto a su gente, su tierra y su cultura. Mientras tanto ellos solo llevan odio, exclusión y represión; y, al final, resulta que sí son amantes de España, pero de la España de hace setenta años. La de hoy simplemente les queda demasiado grande para unas mentes tan estrechas. 
+==========
+Patria digna (Spanish Edition) (Alán Barroso)
+- Subrayado en la página 7 | Pos. 72-77  | Añadido el martes 26 de diciembre de 2023 11H14' GMT+01:00
+
+¿Por qué es importante tener patria? Un estudiante levantó la mano y preguntó: «¿Cuál fue el primer signo de civilización de la historia?». Todos los alumnos esperaban que la respuesta fuese el fuego, el anzuelo, el arado o una vasija. Pero la profesora, una antropóloga estadounidense llamada Margaret Mead, respondió que el primer signo de civilización era un fémur fracturado y sanado. ¿Qué tenía que ver eso con la civilización? Pues mucho más de lo que se podría pensar a simple vista. En el mundo salvaje quien se rompe un fémur no puede huir del peligro ni valerse por sí mismo, por lo que acaba convirtiéndose en una presa fácil y muere. 
+==========
+Patria digna (Spanish Edition) (Alán Barroso)
+- Subrayado en la página 8 | Pos. 88-93  | Añadido el martes 26 de diciembre de 2023 11H17' GMT+01:00
+
+La verdadera patria no es otra cosa que su gente y el verdadero patriotismo no es otra cosa que cuidar a esa gente. Al mismo tiempo es algo que va más allá de la familia, del grupo de amigos y de aquellos a quienes conoces. Es algo que agrupa a muchas personas de lugares, edades y pensamientos distintos con los que, a pesar de no conocerlos, sabes que tienes cosas en común y con los que compartes un pasado y probablemente también un futuro. Os entendéis fácilmente, os gustan cosas más o menos parecidas y la mayoría de las veces tenéis problemas similares. En la unión de esa gente sencilla es donde aparece la patria. 
+==========
+Patria digna (Spanish Edition) (Alán Barroso)
+- Subrayado en la página 9 | Pos. 96-98  | Añadido el martes 26 de diciembre de 2023 11H18' GMT+01:00
+
+Nadie necesita más una patria que aquel que no tiene poder para prescindir de los demás. Los millonarios no quieren países, quieren tiendas donde poder comprar y vender lo que necesitan. 
+==========
+Patria digna (Spanish Edition) (Alán Barroso)
+- Subrayado en la página 10 | Pos. 110-12  | Añadido el martes 26 de diciembre de 2023 11H23' GMT+01:00
+
+La patria fue siempre cuidarse. El resto fueron los poderosos intentando hacerse pasar por un país que nunca necesitaron porque ya tenían su dinero. El patriotismo se demuestra, no se proclama 
+==========
+Patria digna (Spanish Edition) (Alán Barroso)
+- Subrayado en la página 11 | Pos. 129-33  | Añadido el martes 26 de diciembre de 2023 11H26' GMT+01:00
+
+El patriotismo se demuestra, no se proclama. El patriotismo si se saca no es para enseñarlo, sino para ejercerlo. Porque es muy fácil decir que eres patriota, que amas a tu país y que quieres lo mejor para los españoles y para su tierra. Pero si después odias a la mitad de su gente, te importa una mierda que el 1 por ciento acumule más riqueza que el 99 por ciento de españoles restantes o no te preocupa que en dos generaciones la temperatura de España sea la misma que la del Sáhara, tú no eres un patriota, tú eres un bocazas, un charlatán, un falso. Un adalid del postureo. Pero no un patriota. 
+==========
+Patria digna (Spanish Edition) (Alán Barroso)
+- Subrayado en la página 34 | Pos. 421-26  | Añadido el martes 26 de diciembre de 2023 19H39' GMT+01:00
+
+España comenzó a existir cuando existió fuera de esa familia de reyes y cuando su pueblo empezó a decidir cosas por sí mismo, se echó a las calles por voluntad propia, se organizó con sus propios medios, creó las juntas para defenderse y, finalmente, constituyó en la Isla de León, Cádiz, las Cortes españolas. Estas Cortes dejarían por escrito que España había cambiado para siempre y que la historia del país nunca más iba a escribirse en singular ni en nombre de una familia de reyes carcomidos por el paso del tiempo y trastornados por la mezcla de sangres reales, sino que se iba a escribir en plural, en nombre de su pueblo y de su gente humilde. España la fundaban los españoles, no una monarquía podrida y vendida a intereses extranjeros que ni siquiera estaba presente en ese momento de guerra por la liberación nacional. 
+==========
+Patria digna (Spanish Edition) (Alán Barroso)
+- Subrayado en la página 37 | Pos. 461-70  | Añadido el viernes 29 de diciembre de 2023 10H59' GMT+01:00
+
+En una de las intensas jornadas en las Cortes de Cádiz se puso a debate la primera de las leyes constitucionales, la de la libertad de imprenta. Aquel debate fue propicio para que, en palabras del conde de Toreno, los diputados presentes se dividiesen entre aquellos que eran «amigos de las reformas y aquellos que les eran opuestos». Desde entonces «el público distinguió con el apellido de “liberales” a los que pertenecían al primero de los dos grupos» [7] y como «serviles» a los que pertenecían al segundo. Según Agustín Argüelles, uno de los padres de la Constitución de Cádiz, por «la frecuencia con que se usaba en las discusiones y debates la palabra liberal [...] para expresar todo lo que por su espíritu y tendencia conspiraba al establecimiento y consolidación de la libertad», se acabó utilizándola «para señalar a los diputados que promovían las reformas, aplicando en contraposición el de servil a los que la impugnaban y resistían». [8] Liberales o serviles. Progreso o reacción. Ese iba a ser el debate constante en España a partir de entonces. 
+==========
+Patria digna (Spanish Edition) (Alán Barroso)
+- Subrayado en la página 38 | Pos. 480-84  | Añadido el viernes 29 de diciembre de 2023 11H07' GMT+01:00
+
+Cicerón había utilizado la expresión liberalitas en su ensayo Sobre los deberes, para contraponerla al indeseable egoísmo de las relaciones sociales». [9] Por lo tanto, un liberal era aquel que daba y recibía de un modo en el que contribuía al bien común. De cada cual según su capacidad y a cada cual según su necesidad, que se empezaría a decir más tarde. Una concepción de liberalismo muy alejada de los conceptos egoístas a los que nos tenemos que enfrentar hoy en día. 
+==========
+Patria digna (Spanish Edition) (Alán Barroso)
+- Subrayado en la página 57 | Pos. 737-41  | Añadido el lunes 1 de enero de 2024 17H13' GMT+01:00
+
+El pueblo español cada vez estaba más cansado y descreído respecto a lo que la monarquía le podía ofrecer y estaba agotado del ninguneo al que los Borbones sometían a la nación constantemente. El historiador y militante demócrata Fernando Garrido dijo en aquella época: «Dejar a la familia Borbón dominando en España sería obligar al pueblo a estar siempre en guardia para defender las libertades que acaba de conquistar, porque los Borbones han sido siempre, y en todas partes, los enemigos jurados de la libertad e independencia de las naciones». 
+==========
+Patria digna (Spanish Edition) (Alán Barroso)
+- Subrayado en la página 58 | Pos. 749-51  | Añadido el lunes 1 de enero de 2024 17H16' GMT+01:00
+
+Cada capítulo de la historia de España que se inaugura con la huida de un Borbón es una oportunidad para el progreso. Durante la primera ausencia borbónica en suelo español se inventó la guerrilla, se desarrolló el liberalismo, se acabó con el absolutismo y se redactó la primera Constitución española. Se dice pronto. 
+==========
+Patria digna (Spanish Edition) (Alán Barroso)
+- Subrayado en la página 67 | Pos. 873-83  | Añadido el sábado 6 de enero de 2024 17H46' GMT+01:00
+
+Como todas las grandes historias, el proceso por el cual España acabó aprobando una jornada laboral de ocho horas empezó por casualidad. O por lo menos por unos motivos diferentes a lo finalmente conseguido. En Barcelona todos conocían La Canadiense. Era como se conocía a la Barcelona Traction, Light and Power Company, una empresa eléctrica propiedad del Canadian Bank of Commerce que dominaba la energía de Barcelona. Fraser Lawton era su gerente y un 2 de febrero de 1919 tomó una decisión que lo iba a desencadenar todo. Lawton impuso una reducción de sueldo a ocho trabajadores de la empresa alegando motivos de organización, con la mala suerte de que estos trabajadores eran miembros de la CNT y, por supuesto, no estaban dispuestos a que su ya miserable salario fuese reducido todavía más. Se negaron y protestaron, pero en aquella época resistirse significaba despido, y los ocho fueron echados a la calle sin miramientos. La empresa creía que despidiendo a estos trabajadores díscolos que no se sometían al dictamen de la directiva se acabaría el problema. Lo que no sabían es que, con esa decisión, prendería la mecha de la mayor huelga que había conocido Barcelona, Cataluña y España, y que culminaría con una gran victoria obrera y la imposición de la jornada laboral de ocho horas a los patrones. 
+==========
+Patria digna (Spanish Edition) (Alán Barroso)
+- Subrayado en la página 70 | Pos. 911-16  | Añadido el sábado 6 de enero de 2024 18H07' GMT+01:00
+
+La Canadiense tuvo que aceptar las demandas de los trabajadores y el Gobierno español se vio obligado a aprobar el decreto de la jornada laboral de ocho horas. Todos los despedidos fueron readmitidos en sus puestos, se promovió un aumento general y proporcional de los salarios, se aceptó la jornada de ocho horas e incluso se comprometió al pago de la mitad de los días que duró la huelga. Organizarse sirvió. Y lo mejor es que no solo sirvió para que en una fábrica concreta las condiciones fueran mejores. Sirvió para que un país entero viviese mejor. Porque las peleas democráticas nunca se producen de manera aislada. Lucharon en Barcelona, pero sirvió para España entera. 
+==========
+Patria digna (Spanish Edition) (Alán Barroso)
+- Subrayado en la página 71 | Pos. 927  | Añadido el sábado 6 de enero de 2024 18H10' GMT+01:00
+
+Las guerras las crean los ricos y las luchan los pobres. Así son hoy en día y así lo eran en 1909. 
+==========
+Patria digna (Spanish Edition) (Alán Barroso)
+- Subrayado en la página 75 | Pos. 987-90  | Añadido el sábado 6 de enero de 2024 18H24' GMT+01:00
+
+Uno de los episodios más vergonzosos de Alfonso XIII durante este periodo se desarrolló en una visita oficial a la Italia fascista de los primeros años de la dictadura. En una conversación con el rey italiano Víctor Manuel III, que tampoco había tenido ningún reparo en apoyar a Benito Mussolini para ser dictador de Italia, Alfonso XIII le dijo orgulloso: «Ya tengo mi Mussolini», refiriéndose a Miguel Primo de Rivera. 
+==========
+Patria digna (Spanish Edition) (Alán Barroso)
+- Subrayado en la página 78 | Pos. 1011-12  | Añadido el sábado 6 de enero de 2024 18H26' GMT+01:00
+
+Ramón María del Valle-Inclán lo resumió con claridad: «Los españoles han echado al último Borbón no por rey, sino por ladrón». 
+==========
+Patria digna (Spanish Edition) (Alán Barroso)
+- Subrayado en la página 78 | Pos. 1013-23  | Añadido el sábado 6 de enero de 2024 18H29' GMT+01:00
+
+España llevaba desde Fernando VII viendo a los Borbones actuar como freno para el progreso del país y, tras un siglo y medio de idas y venidas, de ensayos y errores, por fin los españoles acababan no solo con esa dinastía, sino con cualquier forma de dominación monárquica. Llegaba la República, y lo más sorprendente es que todo el proceso se produjo sin ningún tipo de derramamiento de sangre. La revolución de 1931 fue un levantamiento del pueblo español contra la tiranía borbónica en el que el consenso fue tan elevado y la solución estaba tan clara que no tuvo que producirse ni un solo incidente violento. Se permitió que Alfonso XIII huyera de España sin ponerle inconvenientes, y de inmediato se proclamó la Segunda República Española. El nuevo régimen nacía sin violencia y con violencia la harían terminar sus enemigos. Lo habitual es ver en la propaganda conservadora (de entonces y de ahora) un intento de presentar la República como un régimen izquierdista, cruento, sádico y revolucionario. Nada más lejos de la realidad. De hecho, la Segunda República fue posible porque, tras mucho diálogo, personalidades de la derecha junto con personalidades de la izquierda y centristas e intelectuales llegaron a un consenso básico: el régimen monárquico que había gobernado hasta el momento había impedido la necesaria modernización del país y solo la República podía traer la calma y el progreso que España necesitaba. 
+==========
+Patria digna (Spanish Edition) (Alán Barroso)
+- Subrayado en la página 79 | Pos. 1027-41  | Añadido el sábado 6 de enero de 2024 18H32' GMT+01:00
+
+Cuando el rey huyó, Niceto Alcalá Zamora, un terrateniente cordobés y exministro del monarca, fue nombrado primer ministro de la República; Miguel Maura, político conservador e hijo del expresidente monárquico Antonio Maura, ministro de la Gobernación; y Lluís Nicolau d’Olwer, un político catalán liberal muy crítico con la izquierda, ministro de Economía. La gran mayoría de los integrantes del nuevo Gobierno eran católicos practicantes y no había ni rastro de los supuestos radicales izquierdistas que trajeron la República. Las ambiciones del Gobierno republicano eran tan moderadas que incluso podrían haber sido consideradas de derechas en otro país. La responsabilidad con el orden, a pesar de toda la alegría y furor popular que despertó la venida de la República, fue tan alta que se impidieron asaltos a edificios relacionados con la monarquía como el Palacio Real, se mantuvo la existencia de la Guardia Civil e incluso el Gobierno aceptó que la República asumiera todas las obligaciones financieras y deudas heredadas de la dictadura de Primo de Rivera. No fue un cambio extremista ni radical, sino un cambio sensato, esperado y compartido por todos los españoles. A pesar de todo, las clases adineradas y sus representantes políticos, que no querían aceptar ni unas modestas medidas modernizadoras del Estado, tan solo tuvieron una obsesión: hacer fracasar el experimento republicano. Su única labor a partir de entonces fue la de obstaculizar el cambio en España. La República nacía con muchos enemigos y muchos problemas por delante. No obstante, el primer paso se había logrado: la monarquía que tantas veces había traicionado a España durante los últimos ciento treinta años había sido expulsada del poder de una vez por todas. El rey fue declarado culpable de alta traición a la patria y, por primera vez en mucho tiempo, las decisiones serían tomadas por representantes elegidos por el pueblo, sin que mediase la sangre real de por medio. La República iba a introducir a España en el siglo XX. O por lo menos lo iba a intentar. 
+==========
+Patria digna (Spanish Edition) (Alán Barroso)
+- Subrayado en la página 80 | Pos. 1042-43  | Añadido el sábado 6 de enero de 2024 18H32' GMT+01:00
+
+El gran problema de la República, además de sus poderosos enemigos, fueron las grandes expectativas y esperanzas que despertó en el pueblo español. 
+==========
+Patria digna (Spanish Edition) (Alán Barroso)
+- Subrayado en la página 81 | Pos. 1066-72  | Añadido el sábado 6 de enero de 2024 18H44' GMT+01:00
+
+El ejército se había convertido en un nido de conspiradores resentidos obsesionados con guiar el destino político del país en lugar de ejercer el papel que le corresponde a un ejército moderno: el de proteger a su población. Es por ello por lo que Manuel Azaña, ministro de la Guerra por aquel entonces, decidió que era una tarea urgente modernizarlo y convertirlo en un cuerpo profesional y neutral en política. Para ello jubiló a los mandos que no quisieron jurar adhesión a la República sin imponerles ningún tipo de represalias y ofreciéndoles, además, un generoso sueldo en su retiro. Sin embargo, el tiempo demostró que Azaña fue demasiado conservador y prudente en sus propósitos cuando años después muchos de esos mandos militares, que habían tenido tiempo de sobra para conspirar mientras cobraban su pensión de jubilación pública, se sublevaron en 1936. 
+==========
+Patria digna (Spanish Edition) (Alán Barroso)
+- Subrayado en la página 83 | Pos. 1088-92  | Añadido el sábado 6 de enero de 2024 18H47' GMT+01:00
+
+La Constitución republicana de 1931 ofreció a las mujeres los mismos derechos jurídicos que a los hombres, permitiéndoles administrar sus propiedades, divorciarse, votar y presentarse a las elecciones. Es habitual oír un bulo reproducido entre voces conservadoras que defiende que la izquierda se opuso al voto de las mujeres; sin embargo, hay que recordar que el voto femenino se aprobó gracias a 161 votos, de los cuales 83 fueron progresistas. De hecho, de las diez mujeres diputadas que hubo durante la República, ocho de ellas fueron de partidos de izquierda o centroizquierda y tan solo dos de partidos de la derecha. 
+==========
+Patria digna (Spanish Edition) (Alán Barroso)
+- Subrayado en la página 83 | Pos. 1092-98  | Añadido el sábado 6 de enero de 2024 18H48' GMT+01:00
+
+Por mucho que se haya intentado vender un relato distinto de manera insistente, ninguna de las medidas que la República impulsó durante sus primeros años de existencia fueron en absoluto radicales ni ambiciosas. No se hablaba de grandes nacionalizaciones, ni de abolición de la propiedad privada, ni siquiera de comunismo, como en otras partes de Europa en aquel momento. Simplemente eran medidas modestas que, frente el desgobierno oligárquico que hasta entonces habían propiciado los Borbones, parecían medidas radicales, pero que, sin embargo, habrían sido firmadas por cualquier político conservador del resto de los países europeos. El problema radicaba en que, como siempre, quien tiene el poder odia perderlo, aunque sea en un mínimo grado. Y por eso la República y sus tímidas reformas no fracasaron, las hicieron fracasar los enemigos del progreso. 
+==========
+Patria digna (Spanish Edition) (Alán Barroso)
+- Subrayado en la página 86 | Pos. 1127-41  | Añadido el sábado 6 de enero de 2024 18H58' GMT+01:00
+
+Una dolorosa combinación entre insatisfacción popular por parte de un proletariado español, que no acababa de ver las reformas que la República prometía, y una oligarquía terrateniente, que las impedía con todos los medios imposibles, desembocó en el naufragio del primer intento por modernizar España que hubo entre 1931 y 1933. El golpe definitivo al primer Gobierno republicano se dio en Casa Viejas (Cádiz), cuando un levantamiento campesino que pedía tierras y trabajo acabó en una terrible represión en la que fueron asesinados veinticuatro jornaleros. A consecuencia de este suceso el Gobierno tuvo que dimitir y se convocaron elecciones para noviembre de 1933. Tras estos eventos y un gran descontento entre las clases populares, se produjo una alta abstención entre los trabajadores, que se afiliaron en masa a la CNT (que pedía la abstención y la no colaboración con la política), y la derecha ganó las elecciones de manera aplastante. Así comenzaba el «bienio negro». Los resultados entregaron el poder a unos políticos cuyo único programa era eliminar toda la legislación progresista aprobada entre 1931 y 1933 por el primer Gobierno liberal-socialista. Todas las medidas modernizadoras que se habían aprobado a duras penas durante los últimos dos años, y contra las que los poderosos se habían conjurado, fueron eliminadas una a una por el nuevo Ejecutivo conservador. Solo había un plan: acabar con la República y sus avances. Los patronos y los terratenientes no escatimaron en alegrías al conocer la derrota de la coalición republicano-socialista y celebraron la victoria de las derechas recortando salarios, despidiendo a trabajadores y subiendo los alquileres. Ahora se sentían impunes y tenían mucho trabajo por hacer, o más bien por deshacer. Alejandro Lerroux fue nombrado presidente del Gobierno y una vez alcanzada esa posición su primera acción fue, sin miramiento alguno, la de crear una oficina para organizar la venta de privilegios estatales, monopolios, concesiones de contratos públicos y licencias. Es decir, puso España a la venta. 
+==========
+Patria digna (Spanish Edition) (Alán Barroso)
+- Subrayado en la página 85 | Pos. 1117-20  | Añadido el sábado 6 de enero de 2024 19H13' GMT+01:00
+
+La CEDA (Confederación Española de Derechas Autónomas) fue el resultado de la fusión de más de cuarenta grupos de derechas y fue obra del controvertido y radical enemigo de la República José María Gil-Robles. Este no tenía reparo en expresar su animadversión por la democracia y su simpatía por el fascismo. De hecho, insistía en que «no veía nada malo en pensar en el fascismo para curar los males de España». 
+==========
+Patria digna (Spanish Edition) (Alán Barroso)
+- Subrayado en la página 87 | Pos. 1141-69  | Añadido el sábado 6 de enero de 2024 19H16' GMT+01:00
+
+Alejandro Lerroux al mismo tiempo permitió que la CEDA, que eran grandes admiradores de lo que estaba ocurriendo en Alemania e Italia, entrase en el Gobierno de la República. Evidentemente saltaron todas las alarmas en el movimiento obrero español por miedo a que ocurriese en España con la CEDA lo mismo que estaba ocurriendo en Alemania con Hitler y pronto comenzasen a ejercer la represión de socialistas, sindicalistas y organizaciones obreras. Lerroux, cada vez más debilitado por su dependencia de los votos de la extrema derecha, no dejaba de ceder más y más poder a la CEDA. La izquierda estaba muy nerviosa y consideraba ese acercamiento como el primer paso hacia la imposición del fascismo en España. Esto provocó que desde personalidades de la izquierda moderada, como Manuel Azaña, hasta conservadores, como Miguel Maura, denunciaran la debilidad de Lerroux y rompieran relaciones con el Gobierno derechista. En ese ambiente lo único que pedían era que se convocaran elecciones para que el pueblo español eligiese un nuevo Gobierno siendo conscientes de la amenaza que la CEDA y sus declaraciones pronazis implicaban. Para presionar, la UGT dio al Ejecutivo un plazo de veinticuatro horas tras el que llevarían a cabo una huelga general pacífica. El Gobierno derechista se les adelantó y declaró el estado de guerra, movilizó al ejército para asegurar el funcionamiento de los servicios básicos y prohibió cualquier tipo de huelga o concentración de carácter político. Es decir, las prohibieron todas. El único sitio donde la huelga pudo triunfar, a pesar de los duros esfuerzos del Gobierno y del ejército para evitarlo, fue en Asturias. La alianza entre CNT, UGT y los comunistas dio suficiente fuerza al movimiento obrero asturiano para que sus acciones triunfasen y se hiciesen con el control del territorio. El Ejecutivo estaba decidido a reprimir esa huelga fuese como fuese, y para ello llamaron a Francisco Franco, que a partir de entonces cada vez cobraría más protagonismo. Franco conocía muy bien Asturias, su geografía y sus comunicaciones porque ya había participado en la represión de la huelga general de 1917, en la que aplastó a los obreros asturianos a sangre y fuego. Tenía una gran experiencia en perseguir trabajadores. A la derecha española le fascinaba que Franco hubiese combatido a los mineros asturianos como si fuesen las tribus africanas contra las que luchaban en Marruecos. En palabras de Paul Preston, para Franco esta era una guerra colonial y el proletariado español era el pueblo colonizado. [21] El ejército regular dirigido implacablemente por Franco cometió auténticas atrocidades reprimiendo a la clase obrera asturiana. Asesinó a mujeres y niños y el ejército llevó a cabo ejecuciones sumarias entre los sindicalistas una vez capturados. Se utilizaron métodos de guerra contra el mismo pueblo que habían jurado defender. La represión fue total y absoluta hasta que lograron sofocar todos los reductos de trabajadores rebeldes. La revolución de Asturias y su represión demostró dos cosas: que la izquierda tan solo podría acceder al poder ganando unas elecciones democráticamente, y que la mejor arma de la derecha para impedir el progreso en España era el ejército y la contención violenta del movimiento obrero. Tras la derrota de los obreros asturianos se abrió un gran periodo de clara reacción. Habían ganado e iban a demostrarlo. Los terratenientes bajaron los salarios en un 50 por ciento, llenaron las cárceles de obreros y de presos políticos, se depuró al ejército de oficiales leales a la República y se nombraron como cargos de responsabilidad a cientos de enemigos declarados del régimen (sin ir más lejos, Franco fue nombrado jefe del Estado Mayor) y se prepararon todas las instituciones necesarias para el papel que desempeñarían poco tiempo más tarde en la Guerra Civil. La derecha seguía esperando la oportunidad para dar un golpe militar, pero la gran resistencia obrera que se encontraron en 1934 todavía les hizo ser prudentes y esperar un poco más. 
+==========
+Patria digna (Spanish Edition) (Alán Barroso)
+- Subrayado en la página 96 | Pos. 1248-56  | Añadido el sábado 6 de enero de 2024 20H15' GMT+01:00
+
+Todo comenzó a precipitarse el 12 de julio de 1936. Militantes de la extrema derecha, ya en clara mentalidad bélica, salieron a buscar a José Castillo, teniente de la Guardia de Asalto (cuerpo policial de la República) y militante socialista. A las diez de la noche de ese día, cuatro pistoleros lo encontraron y, sin mediar palabra, lo asesinaron a tiros en la calle sin que a Castillo le diese tiempo a defenderse. La noticia de su asesinato no tardó en propagarse y sus compañeros de la Guardia de Asalto montaron en cólera y salieron rápidamente a detener a militantes falangistas que pudieran estar implicados en el asesinato de su compañero. Pero la rabia los empujó más allá y acabaron frente a la casa de Calvo Sotelo, implicado en las conversaciones con los militares golpistas, con la intención de vengar el asesinato de su amigo. Lo sacaron de su casa a la fuerza y también lo mataron de un disparo. El asesinato de Calvo Sotelo fue un gran escándalo, pero al mismo tiempo también benefició claramente a los conspiradores militares proporcionándoles la justificación perfecta para defender que España necesitaba, urgentemente, una intervención militar para salvarla de la anarquía. La cuenta atrás se había puesto en marcha, el golpe era inevitable. 
+==========
+Patria digna (Spanish Edition) (Alán Barroso)
+- Subrayado en la página 98 | Pos. 1285-95  | Añadido el domingo 7 de enero de 2024 12H33' GMT+01:00
+
+Sin ayuda extranjera los golpistas estaban perdidos. Sin un seguimiento generalizado del golpe en la península y solo con una victoria efectiva en las colonias africanas de Marruecos mientras el pueblo español estaba en las calles defendiendo la República, lo iban a tener crudo. Por fortuna para los sublevados, no estaban solos. Franco logró trasladar a la península la parte más importante del ejército rebelde gracias a los barcos y aviones alemanes e italianos que pusieron a su disposición las dictaduras europeas. Mientras Inglaterra y Francia habían firmado el vergonzoso Pacto de No Intervención con el que dejaban de lado a la República, alemanes e italianos comenzaban su intervención en España del lado de los traidores. Reconocieron a Franco como jefe de Estado en noviembre de 1936 y, en ese mismo mes, Alemania envió la Legión Cóndor, cientos de aviones y pilotos alemanes para bombardear ciudades y pueblos españoles, además de miles de asesores y militares expertos. Italia no se conformó con eso, sino que además mandó a 70.000 soldados para asesinar españoles que defendiesen la legalidad republicana. Los sublevados de ninguna manera podían llamarse bando nacional sin faltar gravemente a la verdad, puesto que su poderío fue, desde el día uno, deudor de la ayuda que le prestaban potencias extranjeras. Al mismo tiempo que presumían de defender España, permitían la matanza de españoles a manos de alemanes, italianos e incluso mercenarios marroquíes. 
+==========
+Patria digna (Spanish Edition) (Alán Barroso)
+- Subrayado en la página 99 | Pos. 1297-1301  | Añadido el domingo 7 de enero de 2024 12H35' GMT+01:00
+
+Finalmente, y obligada por las circunstancias, la República tuvo que acudir a pedir ayuda a los únicos países que no le dieron la espalda: México y la URSS. Tras haber sido ignorada por todos mientras sufría una invasión fascista, la República (en la que gobernaba un liberal como Azaña, que no tenía ninguna simpatía por el comunismo ni por Stalin) no tuvo más remedio que pedir ayuda a la URSS y, debido a eso, se produjo una innecesaria penetración de agentes soviéticos en España. Mientras la URSS fue un aliado no buscado, Franco no dudaba en hacerse fotos y vídeos junto a Hitler en Hendaya (Francia) y presumir de su amistad. 
+==========
+Patria digna (Spanish Edition) (Alán Barroso)
+- Subrayado en la página 100 | Pos. 1307-11  | Añadido el domingo 7 de enero de 2024 12H56' GMT+01:00
+
+Ninguna política se puede fundar en la decisión de exterminar al adversario, no sólo (y ya es mucho) porque moralmente es una abominación, sino porque es materialmente irrealizable: y la sangre injustamente vertida por el odio, con el propósito de exterminio, renace y retoña y fructifica en frutos de maldición; maldición no sobre los que la derramaron, desgraciadamente, sino sobre el propio país que la ha absorbido para colmo de la desventura. MANUEL AZAÑA 
+==========
+Patria digna (Spanish Edition) (Alán Barroso)
+- Subrayado en la página 101 | Pos. 1322-30  | Añadido el domingo 7 de enero de 2024 13H04' GMT+01:00
+
+Los golpistas tenían que justificar que luchaban por la patria (aunque realmente luchasen contra ella) y para eso tenían que agrupar a todos sus enemigos bajo una misma etiqueta: la anti-España. Un buen ejemplo de esto nos lo dio Luciano de la Calzada, diputado de la CEDA por Valladolid, que en el periódico El Debate enumeraba uno por uno todos aquellos que no tenían derecho a ser llamados españoles: «Judíos, herejes, protestantes, comuneros, moriscos, enciclopedistas, afrancesados, masones, krausistas, liberales y marxistas». [28] Negaba la españolidad de aquellos que le incomodaban. Tan solo se podía ser español a su manera. Y aquel que no lo fuese, debía ser exterminado. Así nos lo hacía entender Gil-Robles, líder de la CEDA, en 1933, en el mismo periódico cuando decía: «Hay que fundar un nuevo Estado, una nación nueva, dejar la patria depurada de masones judaizantes [...] ¡Qué importa si nos cuesta hasta derramar sangre!». [29] Su objetivo era depurar España. 
+==========
+Patria digna (Spanish Edition) (Alán Barroso)
+- Subrayado en la página 102 | Pos. 1332-41  | Añadido el domingo 7 de enero de 2024 13H05' GMT+01:00
+
+El mayor traidor que conoció nuestra historia también formaba parte de esa confabulación antiespañola. Francisco Franco nunca tuvo intención de ganar rápidamente la guerra, de hecho, defendía que «Nuestra cruzada es necesariamente lenta, de redención y pacificación, sin la cual la ocupación militar sería totalmente inútil. La redención moral de las zonas ocupadas será larga y difícil porque en España las raíces del anarquismo son antiguas y profundas... Ocuparé España ciudad a ciudad, pueblo a pueblo, ferrocarril a ferrocarril [...] Nada me hará abandonar este programa gradual. Me dará menos gloria, pero mayor paz en el interior». [30] El proyecto de Franco era la desaparición física de la mitad de España. Para ello no solo fomentó una guerra larga y sin intención de acortarla para así poder matar al máximo número de enemigos posibles, sino que, además, una vez terminada esta, siguió fusilando, encarcelando y persiguiendo a los que consideraba malos españoles. ¿Su objetivo? Eliminar a todos los que no fuesen como ellos. Querían construir una España sin españoles. Esa siempre fue la idea de unos autodenominados patriotas a los que no les importaba que su patria fuese un cementerio mientras ellos fuesen los dueños del cementerio. 
+==========
+Patria digna (Spanish Edition) (Alán Barroso)
+- Subrayado en la página 104 | Pos. 1368-72  | Añadido el domingo 7 de enero de 2024 23H59' GMT+01:00
+
+Es una falta de respeto que se pueda llegar a igualar un bando que dio un golpe de Estado contra un régimen constitucional gracias al apoyo de Hitler y Mussolini, y otro que tuvo que protegerse de esa agresión y defender el Gobierno que había salido de las urnas mientras el resto de los países occidentales miraba hacia otro lado. No hay equidistancia posible. Un bando fue traidor y asesino, el otro traicionado, asesinado y encarcelado durante cuarenta años de larga dictadura en la que no se dejó de matar hasta el último día de vida del dictador. 
+==========
+Patria digna (Spanish Edition) (Alán Barroso)
+- Subrayado en la página 107 | Pos. 1407-9  | Añadido el martes 9 de enero de 2024 00H46' GMT+01:00
+
+Ni fue una guerra entre hermanos, ni la responsabilidad fue compartida ni la República se vendió a los comunistas, sino que fue una guerra entre un régimen constitucional legal y unos sublevados; la responsabilidad fue de quien comenzó el golpe de Estado, y el apoyo de Alemania e Italia fue determinante para garantizar la victoria de los golpistas. Y todo ello desembocó en una larga etapa de miseria y dictadura. 
+==========
+Patria digna (Spanish Edition) (Alán Barroso)
+- Subrayado en la página 108 | Pos. 1416-28  | Añadido el martes 9 de enero de 2024 00H49' GMT+01:00
+
+«En el día de hoy, cautivo y desarmado el Ejército Rojo, han alcanzado las tropas nacionales sus últimos objetivos militares. La guerra ha terminado». Eso es lo que se oyó en las radios españolas el 1 de abril de 1939. Y lo único cierto que decía era que la guerra había llegado a su fin, pero desde luego no habían ganado los nacionales ni tampoco habían desarmado al «ejército rojo». No habían ganado los nacionales porque el bando sublevado tenía poco de nacional, puesto que se alzó gracias a los recursos alemanes e italianos para hacer caer al Gobierno legítimo de la nación que habían votado sus ciudadanos. Es decir, recursos extranjeros para desbaratar lo que habían votado los españoles. Y tampoco habían desarmado a ningún supuesto «ejército rojo», sino a todos los españoles que habían creído en una España moderna que los golpistas se encargaron de eliminar por medio de las armas. La guerra terminó y España fue vendida al mejor postor por hombres a los que solo podemos llamar traidores, jamás nacionales. Encontraron una España en proceso de modernización y llena de vida y dejaron una España invadida por la codicia y vaciada de españoles. Ganaron la guerra, sí, pero para conseguirlo le hicieron pagar un precio muy alto a España: casi medio millón de muertos, más de medio millón de exiliados, la destrucción total de la economía del país, un aislamiento internacional y única amistad con las dictaduras que ese mismo 1939 iban a desencadenar la Segunda Guerra Mundial. Pusieron a España en el lado perdedor de la historia. Y también en el más cruel. Ellos ganaron la guerra, pero perdió España. 
+==========
+Patria digna (Spanish Edition) (Alán Barroso)
+- Subrayado en la página 109 | Pos. 1430-31  | Añadido el martes 9 de enero de 2024 00H49' GMT+01:00
+
+con odio no se gana un país, solo se le secuestra a punta de pistola. 
+==========
+Patria digna (Spanish Edition) (Alán Barroso)
+- Subrayado en la página 120 | Pos. 1580-82  | Añadido el martes 9 de enero de 2024 01H26' GMT+01:00
+
+El tiempo poco a poco se lleva a los protagonistas. ANA MESSUTI en El silencio de otros (2018) 
+==========
+Patria digna (Spanish Edition) (Alán Barroso)
+- Subrayado en la página 122 | Pos. 1607-9  | Añadido el martes 9 de enero de 2024 01H30' GMT+01:00
+
+Quien de verdad quiere a España no puede permitir que sus cimientos estén sembrados de cadáveres, sufrimiento y desmemoria. Un país decente supera sus traumas enfrentándose a ellos, no haciendo como que no existen y olvidando a la fuerza. Hace falta justicia, reparación y memoria. Solo entonces podremos comenzar a ser un país sin complejos. 
+==========
+Patria digna (Spanish Edition) (Alán Barroso)
+- Subrayado en la página 122 | Pos. 1613-15  | Añadido el martes 9 de enero de 2024 01H33' GMT+01:00
+
+Nuestra patria más digna está enterrada en cunetas y sobre ellas hay un atajo de politicuchos, parásitos y oligarcas que la quieren seguir ahogando en la tierra. Ya es hora de apartarlos y recuperar esa España enterrada que es semilla de libertad y de orgullo patriótico. 
+==========
+Patria digna (Spanish Edition) (Alán Barroso)
+- Subrayado en la página 129 | Pos. 1696-98  | Añadido el miércoles 10 de enero de 2024 19H44' GMT+01:00
+
+En la Navidad de 1936 y de camino hacia Barcelona, Orwell pasó por París para visitar a un amigo. Cuando este le preguntó qué iba a hacer en España, Orwell contestó: «Voy a matar fascistas porque alguien debe hacerlo». [45] 
+==========
+Patria digna (Spanish Edition) (Alán Barroso)
+- Subrayado en la página 129 | Pos. 1709-12  | Añadido el miércoles 10 de enero de 2024 19H47' GMT+01:00
+
+El ejemplo de las Brigadas resuena a lo largo y ancho de la historia y demuestra que lo importante no son ni las banderas, ni los idiomas ni la procedencia. Lo importante es lo que uno hace con sus manos. Y todo aquel que use las manos para hacer de España un país mejor, es bienvenido a formar parte de nuestra historia y de nuestro orgullo nacional. 
+==========
+Patria digna (Spanish Edition) (Alán Barroso)
+- Subrayado en la página 138 | Pos. 1819-20  | Añadido el miércoles 10 de enero de 2024 21H45' GMT+01:00
+
+Toda monarquía tiene un origen criminal. En algún momento algún señor de la guerra se hizo lo suficientemente poderoso para lograr imponer su voluntad a la del resto, y a partir de ahí justificó su dominio diciendo que era voluntad de Dios. 
+==========
+Patria digna (Spanish Edition) (Alán Barroso)
+- Subrayado en la página 149 | Pos. 1967-68  | Añadido el jueves 11 de enero de 2024 19H15' GMT+01:00
+
+De la misma forma que no existe rey sin pueblo, pero sí pueblo sin rey, no existe historia sin pueblo, pero sí sin reyes. Y esa ha sido la historia de España, la historia de sus clases populares. 
+==========
+Patria digna (Spanish Edition) (Alán Barroso)
+- Subrayado en la página 149 | Pos. 1972-73  | Añadido el jueves 11 de enero de 2024 19H17' GMT+01:00
+
+No se trata de ser patriota por venir de donde venimos, sino por ir hacia donde vamos. 
+==========
+Patria digna (Spanish Edition) (Alán Barroso)
+- Subrayado en la página 153 | Pos. 2023-29  | Añadido el jueves 11 de enero de 2024 22H15' GMT+01:00
+
+Mecano, un grupo pop español de la década de los ochenta pero con gran impacto cultural incluso décadas más tarde, canta en su canción «Un año más» —que se reproduce hasta la saciedad durante las navidades de cada año— que comiendo uvas los españoles «hacemos por una vez algo a la vez». Y tiene bastante razón. Al mismo tiempo que la reunión del día 31 comiendo uvas al son de las campanadas puede ser una imagen entrañable de unidad y comunión de todo un pueblo en un momento especial del año, también es un gran problema para nuestro país, porque evidencia que es el único momento en el que, como canta Mecano, «hacemos algo a la vez». El problema es que no tenemos cosas que hacer a la vez nunca. No tenemos una fiesta nacional que nos emocione a todos a la vez, no tenemos una bandera que nos guste a todos a la vez y ni siquiera un himno que nos haga vibrar (ni se diga cantar) a todos a la vez. La mayoría lo tienen, nosotros no. 
+==========
+Patria digna (Spanish Edition) (Alán Barroso)
+- Subrayado en la página 154 | Pos. 2030-31  | Añadido el jueves 11 de enero de 2024 22H15' GMT+01:00
+
+Un país son símbolos compartidos, emociones comunes y sentido de pertenencia. 
+==========
+Patria digna (Spanish Edition) (Alán Barroso)
+- Subrayado en la página 184 | Pos. 2433-38  | Añadido el domingo 14 de enero de 2024 21H34' GMT+01:00
+
+Mientras estamos ocupados peleando con el vecino, criminalizando al inmigrante o criticando ayudas públicas a los más vulnerables, nos miran desde arriba frotándose las manos y continúan moviendo los hilos que de verdad influyen en nuestras vidas. Es muy fácil que tu frustración acabe escapando por cualquier rendija cuando no tienes contra quién dirigirla. El problema es que esas rendijas siempre suelen estar orientadas hacia los más débiles. Contra los pobres, contra los inmigrantes, contra los que están un poco peor que nosotros. Y esa frustración se convierte en el abono del que se alimenta el fascismo más carroñero. Del odio entre los de abajo. De la frustración cronificada del que, estando harto de todo, no sabe a quién echar la culpa de sus problemas y acaba señalando a quien todavía está más jodido. 
+==========
+Patria digna (Spanish Edition) (Alán Barroso)
+- Subrayado en la página 185 | Pos. 2442-43  | Añadido el domingo 14 de enero de 2024 21H35' GMT+01:00
+
+Frente a la falta de dirección, la ausencia de brújulas que apunten hacia el norte, tenemos que decirlo muy claro: hay que apuntar hacia arriba. 
+==========
+Patria digna (Spanish Edition) (Alán Barroso)
+- Subrayado en la página 186 | Pos. 2455-60  | Añadido el domingo 14 de enero de 2024 21H37' GMT+01:00
+
+el verdadero problema es que cuando calla la política solo habla el dinero. Se impone no aquel que tiene más votos, sino el que tiene más dinero y que, por lo tanto, acumula más poder. Por el momento, la política, la democracia y el voto son las mejores armas de aquellos que no tienen otro poder que el de decidir a quién vota en las elecciones. A los poderosos les dan igual las elecciones. Tienen muchas formas de incidir en el desarrollo de los acontecimientos públicos. Tienen mil herramientas legales e ilegales para presionar y que se cumpla su voluntad sin necesidad de meterse en política y mucho menos de introducir un voto en una urna. Pero la inmensa mayoría no. La inmensa mayoría solo tiene su voto, su voz y su poder de asociación. 
+==========
+Patria digna (Spanish Edition) (Alán Barroso)
+- Subrayado en la página 188 | Pos. 2487-93  | Añadido el domingo 14 de enero de 2024 21H44' GMT+01:00
+
+Ser de izquierdas o derechas ha sido siempre una ficción. Comenzó en la Asamblea Nacional francesa de 1789, donde los diputados defensores del Antiguo Régimen y de los privilegios feudales se sentaban a la derecha y los diputados defensores del progreso y de la revolución lo hacían a la izquierda. Fue algo fortuito que podría haber sido perfectamente al revés, pero que, sin embargo, definió una de las identidades políticas de más peso de nuestra historia reciente. Más de dos siglos después, la ficción persiste, pero los cimientos que la sostienen están cada vez más resquebrajados. Dice el profesor Enrique del Teso que la división entre izquierdas y derechas se ha vuelto tan ficticia que «se diferencian mirando quien la hace. Si la hace alguien de derechas, la política es de derechas, pero si la hace alguien de izquierdas, entonces es de izquierdas». 
+==========
+Patria digna (Spanish Edition) (Alán Barroso)
+- Subrayado en la página 191 | Pos. 2536-37  | Añadido el domingo 14 de enero de 2024 21H52' GMT+01:00
+
+En el epitafio de los izquierdistas más puros pondrá: «Siempre perdió, pero era el más de izquierdas». 
+==========
+Patria digna (Spanish Edition) (Alán Barroso)
+- Subrayado en la página 192 | Pos. 2547-50  | Añadido el domingo 14 de enero de 2024 21H54' GMT+01:00
+
+Es curioso, pero se produce antes una concentración de solidaridad en Barcelona por una agresión en La Coruña, que está relativamente lejos, que por una agresión en Toulouse, que está bastante más cerca. Eso ocurre porque da igual que la llamemos España, patria o gran familia; la realidad es que nos duelen las mismas cosas, nos emocionamos juntos, luchamos juntos y vamos hacia algún lado juntos. Formamos parte de una misma comunidad. 
+==========
+Patria digna (Spanish Edition) (Alán Barroso)
+- Subrayado en la página 197 | Pos. 2620-21  | Añadido el domingo 14 de enero de 2024 22H19' GMT+01:00
+
+El separatismo que más daño hace no se identifica ni con un territorio ni con una bandera. Ni siquiera con un idioma ni una historia común. Se identifica con algo mucho más frío y desapasionado, pero al mismo tiempo más poderoso y determinante: el dinero. 
+==========
+Patria digna (Spanish Edition) (Alán Barroso)
+- Subrayado en la página 198 | Pos. 2625-28  | Añadido el domingo 14 de enero de 2024 22H20' GMT+01:00
+
+Los académicos Antonio Ariño y Juan Romero han bautizado este fenómeno como «la secesión de los ricos» y lo definen como «el proceso de desanclaje financiero, económico, político, cultural, moral y residencial de las élites en relación con la sociedad en la que se hallan nacionalizadas y tributan». Los ricos se están convirtiendo en una especie de «clase global que sobrevuela los países sin estar comprometido con ninguno de ellos». [58] 
+==========
+Patria digna (Spanish Edition) (Alán Barroso)
+- Subrayado en la página 211 | Pos. 2801-2  | Añadido el domingo 14 de enero de 2024 22H51' GMT+01:00
+
+La vida se convierte en un juego de puntería en el que la inmensa mayoría tiene un solo disparo mientras que los privilegiados tienen todos los que quieran. 
+==========
+Patria digna (Spanish Edition) (Alán Barroso)
+- Subrayado en la página 219 | Pos. 2916-19  | Añadido el martes 16 de enero de 2024 01H18' GMT+01:00
+
+¿Y quién triunfa cuando no hay ni ley ni orden? Los más fuertes. Aquellos que pueden imponerse a los más débiles. ¿Por qué necesitamos entonces ley y orden? Para que no impere la ley de la selva, para que los más fuertes no dominen a los débiles y para que haya justicia. Es algo de sentido común que por desgracia se olvida muchas veces. 
+==========
+Patria digna (Spanish Edition) (Alán Barroso)
+- Subrayado en la página 221 | Pos. 2931  | Añadido el martes 16 de enero de 2024 01H22' GMT+01:00
+
+La ley y el orden iguala, redistribuye y limita la fuerza de los poderosos. 
+==========
+Patria digna (Spanish Edition) (Alán Barroso)
+- Subrayado en la página 227 | Pos. 3026-32  | Añadido el jueves 18 de enero de 2024 11H03' GMT+01:00
+
+Defender la familia no debería ser algo que se limita simplemente a los valores existentes, sino a las posibilidades materiales de existencia. La realidad es que no hay defensa posible de la familia si no pasa por generar las condiciones para que esas familias se desarrollen. Las familias no nacen por generación espontánea. Hacen falta muchas cosas para que crezcan y salgan adelante. Empezando por una casa asequible y siguiendo por un trabajo decente y una perspectiva de futuro estable que te permita edificar una familia con hijos a largo plazo. Sin esa seguridad no hay familia posible. Y esa es la defensa de la familia que tenemos que empezar a hacer desde el progresismo. Hay que desenmascarar esa defensa vacía y falsa de la familia por parte de las fuerzas conservadoras y empezar a defenderla de verdad. 
+==========
+Patria digna (Spanish Edition) (Alán Barroso)
+- Subrayado en la página 228 | Pos. 3032-35  | Añadido el jueves 18 de enero de 2024 11H04' GMT+01:00
+
+cuando alguien se declara defensor de la familia hay que contestarle, bien, pero ¿cómo se hace eso? Y si ante esa pregunta la respuesta no pasa por regular los alquileres, hacer un mercado laboral más justo y estable y garantizar las condiciones de vida de las familias mediante todas las ayudas públicas necesarias, entonces no quiere defender a las familias. Es tan solo un eslogan. Es defender, en todo caso, su modelo de familia. 
+==========
+Patria digna (Spanish Edition) (Alán Barroso)
+- Subrayado en la página 229 | Pos. 3052-53  | Añadido el sábado 20 de enero de 2024 15H51' GMT+01:00
+
+la libertad que se compra con dinero no es libertad, sino privilegio. Y como todo privilegio, tan solo pertenece a unos pocos, concretamente a quienes lo pueden pagar. 
+==========
+Patria digna (Spanish Edition) (Alán Barroso)
+- Subrayado en la página 230 | Pos. 3068-72  | Añadido el sábado 20 de enero de 2024 15H55' GMT+01:00
+
+¿de qué sirve la libertad para poder comprarte un megayate o una isla privada si no llegas a fin de mes y apenas puedes pagar el alquiler? Te repiten que eres libre de hacer lo que quieras, pero es mentira. No puedes hacer lo que quieras si no llegas a fin de mes. No eres libre si tu libertad depende del dinero que tengas. Esa libertad no sirve a nadie más que a una pequeña minoría que, teniendo dinero y ceros de sobra en su cuenta bancaria, puede hacer prácticamente lo que quiera siempre y cuando pueda pagarlo. Libertad condicionada por el dinero no es libertad. La libertad, como decía la cantante afroamericana Nina Simone, es vivir sin miedo. 
+==========
+Patria digna (Spanish Edition) (Alán Barroso)
+- Subrayado en la página 236 | Pos. 3142-43  | Añadido el sábado 20 de enero de 2024 17H56' GMT+01:00
+
+Si el patriotismo tiene que ver con el amor hacia tu país, debería llevar asociado un deseo de no destrozarlo ecológicamente. Un patriota defiende su tierra, no a quien la destruye. 
+==========
+Patria digna (Spanish Edition) (Alán Barroso)
+- Subrayado en la página 237 | Pos. 3156  | Añadido el sábado 20 de enero de 2024 17H59' GMT+01:00
+
+Para ser patriota tienes que estar concienciado sobre el problema de la crisis climática. 
+==========
+Patria digna (Spanish Edition) (Alán Barroso)
+- Subrayado en la página 243 | Pos. 3238-41  | Añadido el sábado 20 de enero de 2024 18H30' GMT+01:00
+
+Vivimos atrapados en un sistema económico profundamente disfuncional cuyo coste, para que simule funcionar bien, es acabar con la salud mental, física y anímica de los que trabajan para él. Es mentira que todo empiece y acabe en uno mismo, especialmente en lo que respecta a la salud mental. Hace falta desestigmatización, psicólogos asequibles y, sobre todo, vidas dignas que merezcan la pena ser vividas. 
+==========
+Patria digna (Spanish Edition) (Alán Barroso)
+- Subrayado en la página 245 | Pos. 3255-57  | Añadido el sábado 20 de enero de 2024 18H57' GMT+01:00
+
+todas las victorias y derrotas forman parte de un momento pendular de ida y venida. Nunca se gana del todo, pero por suerte eso también quiere decir que nunca se pierde del todo. Es imposible estar siempre en la cresta de la ola y, como en la vida misma, hay tantos momentos de bajada como momentos de subida. 
+==========
+Patria digna (Spanish Edition) (Alán Barroso)
+- Subrayado en la página 246 | Pos. 3275  | Añadido el sábado 20 de enero de 2024 19H00' GMT+01:00
+
+Porque no es patria el suelo que se pisa, sino el suelo que se labra. 
+==========
+Mis recortes
+- Marcador Pos. 77  | Añadido el martes 23 de enero de 2024 19H06' GMT+01:00
+
+
+==========
